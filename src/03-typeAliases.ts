@@ -78,7 +78,7 @@ import {
   // Test for findBuddyContact.
   console.log("Contact buddy at: ", findBuddyContact(myFootballBuddies, "Ralph Graham"));
 
-  //write a function called getBuddyListFriends that returns all the Friends in a buddy list
+  //a function called getBuddyListFriends that returns all the Friends in a buddy list
 
     function getBuddyListFriends(list: BuddyList): Friend[] {
         const friends: Friend[] = [];
