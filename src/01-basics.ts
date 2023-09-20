@@ -4,7 +4,7 @@ import {Friend, Colleague, ColleagueHistory } from './myTypes'
 
 
 const friend1 : Friend = {
-    name: "John Doe",
+    name: "Paul Fleming",
     phone: "089-78320",
     age: 26,
   };
