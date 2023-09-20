@@ -40,7 +40,7 @@ function secureFindFriends(
   }
   console.log(generateEventPass(colleagues.current[0]));
 
-  //write afunction called intersection finds the intersection of a friends array and a colleagues array, based on using mixFriendCol. It returns an array of objects with a mix of properties from the Friend and Colleagues types
+  //a function called intersection finds the intersection of a friends array and a colleagues array, based on matching the name property. It returns an array of objects with a mix of properties from the Friend and Colleagues types
 
     function intersection(
       friends: Friend[],
